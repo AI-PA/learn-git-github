@@ -1,3 +1,4 @@
 --
 Texto 1 - Desde VS Code
 --
+Texto 2 - Cambios desde rama local
