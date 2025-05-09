@@ -1,4 +1,4 @@
 --
-Texto 1 - Desde VS Code 
---
-y rama principal
+Texto 1 - Desde VS Code y rama principal
+Texto 2 - Cambios desde rama local
+
