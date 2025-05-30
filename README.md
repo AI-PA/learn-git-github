@@ -7,14 +7,6 @@ Commit desde github
 Cambios generados en la rama dev
 
 ```mermaid
-
-
-```
-
-Tile : Graph
-
-```
-
 gitGraph
     commit
     commit
@@ -26,4 +18,4 @@ gitGraph
     merge develop
     commit
     commit
-```
+
